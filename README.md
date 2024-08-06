@@ -13,7 +13,8 @@
 10. [Author](#author)
 
 ## Introduction
-This repository contains an implementation of an automated customer service chatbot using the Ubuntu Dialogue Corpus. The project involves data preprocessing, model development using Transformer architecture, and chatbot integration. 
+This repository contains an implementation of a Transformer-based model and fine-tuned GPT-2 for an automated customer service chatbot using the Ubuntu Dialogue Corpus. The Transformer notebook includes data preprocessing with NLTK, model architecture design, and training using TensorFlow, while the GPT-2 notebook emphasizes data preparation, fine-tuning, and saving the enhanced model using Transformers for improved conversational performance.
+
 
 ## Data Acquisition and Preprocessing
 - **Load and preprocess data**: Load the Ubuntu Dialogue Corpus and clean the text.
